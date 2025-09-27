@@ -1,16 +1,26 @@
-# React + Vite
+🏫 IELTS Pro - Modern React Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+IELTS Pro is a responsive, modern homepage for an IELTS coaching institute.
+It showcases courses, student testimonials, and contact information with smooth scrolling navigation, interactive UI elements, and a clean professional design.
 
-Currently, two official plugins are available:
+🌟 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Design – Works seamlessly on mobile, tablet, and desktop.
 
-## React Compiler
+Hero Section – Prominent CTA with illustration.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Courses / Features Section – Highlights institute offerings with icons.
 
-## Expanding the ESLint configuration
+Testimonials Section – Showcases dynamic student feedback.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Footer / Contact Section – Includes contact info and quick links.
+
+Interactive UI – Buttons and cards with hover effects for better UX.
+
+🛠 Tech Stack
+Frontend	Styling	JavaScript
+React.js	Tailwind CSS	ES6+ JavaScript
+
+Notes
+
+Fully responsive and mobile-friendly.
