@@ -23,7 +23,7 @@ React.js	Tailwind CSS	ES6+ JavaScript
 
 🔗 Live Demo
 
-View Live Project[https://ielts-homepage.vercel.app/]
+[View Live Project](https://ielts-homepage.vercel.app/)
 
 
 Notes
